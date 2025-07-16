@@ -22,7 +22,7 @@ This project is part of the CodTech Blockchain Technologies Internship.
 
 - `SimpleToken.sol`: Solidity smart contract
 - `deployed_contract_remix.png`: Remix deployment screenshot
-- `token_transfer_remix.png`: Token transfer proof
+- `token_transfer_remix.png`: Token transfer proof 
 - `balance_check_remix.png`: Balance verification screenshot
 
 ## ✅ Deployment
